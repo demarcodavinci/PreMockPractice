@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\720114\\source\\repos\\premockpractice\\premockpractice\\premockpractice.csproj": {}
+    "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\720114\\GitHub\\PreMockPractice\\premockpractice\\premockpractice\\premockpractice.csproj": {}
   },
   "projects": {
-    "C:\\Users\\720114\\source\\repos\\premockpractice\\premockpractice\\premockpractice.csproj": {
+    "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\720114\\GitHub\\PreMockPractice\\premockpractice\\premockpractice\\premockpractice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\720114\\source\\repos\\premockpractice\\premockpractice\\premockpractice.csproj",
+        "projectUniqueName": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\720114\\GitHub\\PreMockPractice\\premockpractice\\premockpractice\\premockpractice.csproj",
         "projectName": "premockpractice",
-        "projectPath": "C:\\Users\\720114\\source\\repos\\premockpractice\\premockpractice\\premockpractice.csproj",
+        "projectPath": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\720114\\GitHub\\PreMockPractice\\premockpractice\\premockpractice\\premockpractice.csproj",
         "packagesPath": "C:\\Users\\720114\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\720114\\source\\repos\\premockpractice\\premockpractice\\obj\\",
+        "outputPath": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\720114\\GitHub\\PreMockPractice\\premockpractice\\premockpractice\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -50,6 +50,10 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Authentication.Google": {
+              "target": "Package",
+              "version": "[9.0.12, )"
+            },
             "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
               "target": "Package",
               "version": "[9.0.0, )"

@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "V2VyiRKJrJw=",
+  "dgSpecHash": "uQCFypmxviE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\720114\\source\\repos\\premockpractice\\premockpractice\\premockpractice.csproj",
+  "projectFilePath": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\720114\\GitHub\\PreMockPractice\\premockpractice\\premockpractice\\premockpractice.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\720114\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\720114\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
     "C:\\Users\\720114\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
+    "C:\\Users\\720114\\.nuget\\packages\\microsoft.aspnetcore.authentication.google\\9.0.12\\microsoft.aspnetcore.authentication.google.9.0.12.nupkg.sha512",
     "C:\\Users\\720114\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\9.0.0\\microsoft.aspnetcore.cryptography.internal.9.0.0.nupkg.sha512",
     "C:\\Users\\720114\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\9.0.0\\microsoft.aspnetcore.cryptography.keyderivation.9.0.0.nupkg.sha512",
     "C:\\Users\\720114\\.nuget\\packages\\microsoft.aspnetcore.diagnostics.entityframeworkcore\\9.0.0\\microsoft.aspnetcore.diagnostics.entityframeworkcore.9.0.0.nupkg.sha512",
